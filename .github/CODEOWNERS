@@ -1,2 +1,3 @@
 *.html @jnyjhow
 .github/ @jnyjhow
+*.js @jnyjhow
