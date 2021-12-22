@@ -1,0 +1,24 @@
+{
+  "name": "1_exemplos_aula",
+  "version": "1.0.0",
+  "description": "## Exemplos de Aula",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnyjhow/padroes_e_tecnicas_avancadas_com_git_e_github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnyjhow/padroes_e_tecnicas_avancadas_com_git_e_github/issues"
+  },
+  "homepage": "https://github.com/jnyjhow/padroes_e_tecnicas_avancadas_com_git_e_github#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
+    "husky": "^7.0.4"
+  }
+}
